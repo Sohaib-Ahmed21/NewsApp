@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.fd5866b0.css","mappings":"AAAA,UAGE,QAAS,CAFT,cAAe,CACf,OAEF","sources":["Components/App.css"],"sourcesContent":[".centered {\n  position: fixed; /* or absolute */\n  top: 35%;\n  left: 40%;\n}"],"names":[],"sourceRoot":""}
