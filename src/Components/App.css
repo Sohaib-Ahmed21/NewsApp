@@ -1,0 +1,5 @@
+.centered {
+  position: fixed; /* or absolute */
+  top: 35%;
+  left: 40%;
+}

@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Walter Thompson",
+    "title": "TechCrunch+ Roundup: How pitch decks fail, inside the AI hype cycle, budgeting for a downturn | TechCrunch",
+    "description": "It’s clear that AI is driving the latest hype cycle, but how are early-stage investors sorting the wheat from the chaff these days?",
+    "url": "https://techcrunch.com/2023/08/04/techcrunch-roundup-how-pitch-decks-fail-inside-the-ai-hype-cycle-budgeting-for-a-downturn/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1245010699.jpg?resize=1200,800",
+    "publishedAt": "2023-08-04T17:02:23Z",
+    "content": "When I’m dining out in unfamiliar territory, I’ll usually find a restaurant on the beaten path if a place has no customers, it makes me leery.\r\nTech investors have similar appetites when it comes to … [+4444 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kirsten Korosec",
+    "title": "Nikola CEO steps down, replaced by chairman | TechCrunch",
+    "description": "EV truck maker Nikola Corp said Friday that president CEO Michael Lohscheller is leaving the top executive positions.",
+    "url": "https://techcrunch.com/2023/08/04/nikola-ceo-steps-down-replaced-by-chairman/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/20220323_NIKOLA_TRE_HERO_3117_2-3.jpg?resize=1200,819",
+    "publishedAt": "2023-08-04T16:54:36Z",
+    "content": "EV truck maker Nikola Corp said Friday that president CEO Michael Lohscheller is leaving the top executive positions due to a family health issue. He will be replaced by board chairman Steve Girsky, … [+2216 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Aisha Malik",
+    "title": "Spotify introduces new product to help software development teams with with A/B testing | TechCrunch",
+    "description": "Spotify is making its A/B testing platform public, the music streaming service announced this week.",
+    "url": "https://techcrunch.com/2023/08/04/spotify-introduces-new-product-to-help-software-development-teams-with-with-a-b-testing/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1158411062.jpg?resize=1200,800",
+    "publishedAt": "2023-08-04T16:46:31Z",
+    "content": "Spotify is introducing a new commercial product for software development teams called “Confidence,” which is based on its homegrown experimentation platform. Confidence is designed to make it easy fo… [+2344 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ron Miller",
+    "title": "AWS revenue growth dropped to 12% in Q2, but company remains optimistic about cloud biz | TechCrunch",
+    "description": "AWS grew at an anemic 12% in Q2, but in spite of that, the company is optimistic that it has turned a corner and more robust growth is coming.",
+    "url": "https://techcrunch.com/2023/08/04/aws-revenue-growth-dropped-to-12-in-q2-but-company-remains-optimistic-about-cloud-biz/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-925557862.jpg?resize=1200,800",
+    "publishedAt": "2023-08-04T16:41:14Z",
+    "content": "Amazon has seen AWS growth rates dropping substantially over the last three quarters from 20% to 16% to 12% this quarter. Thats not the kind of trend any company wants to see, but especially for a di… [+2972 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Zack Whittaker",
+    "title": "Israel cybersecurity agency says no breach after senior official self-infects home PC with malware | TechCrunch",
+    "description": "Passwords stolen from an agency official's home computer were posted in a public Telegram group known for sharing stolen credentials.",
+    "url": "https://techcrunch.com/2023/08/04/israel-cybersecurity-directorate-no-breach-malware/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/password-stealing-malware.jpg?resize=1200,800",
+    "publishedAt": "2023-08-04T16:05:38Z",
+    "content": "Israel’s National Cybersecurity Directorate said there was “no breach” of its network after passwords belonging to a senior agency official were stolen from their home computer earlier this year and … [+2569 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ron Miller",
+    "title": "Even as cloud growth continues to slow, market remains robust in Q2 at $65B | TechCrunch",
+    "description": "The numbers are in for the Big 3 cloud vendors, and while growth is slowing, the market remained strong, growing $10B YoY for the quarter.",
+    "url": "https://techcrunch.com/2023/08/04/even-as-cloud-growth-continues-to-slow-market-remains-robust-in-q2-at-65b/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1297856112.jpg?resize=1200,675",
+    "publishedAt": "2023-08-04T15:47:28Z",
+    "content": "Cloud growth has been slowing for a number of reasons this year. Some of it has to do with macroeconomic headwinds causing customers to look to cut their cloud bills, some of it with a maturing marke… [+2928 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Lorenzo Franceschi-Bicchierai",
+    "title": "Meet Window Snyder, the trailblazer who helped secure the internet and billions of devices | TechCrunch",
+    "description": "Meet Window Snyder, a veteran hacker and cybersecurity pro who has helped companies like Microsoft, Mozilla, and Apple be more secure.",
+    "url": "https://techcrunch.com/2023/08/04/window-snyder-cybersecurity-trailblazer/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/window-snyder-1.jpg?resize=1200,801",
+    "publishedAt": "2023-08-04T15:22:06Z",
+    "content": "After the band played Miles Davis Seven Steps to Heaven, and an effusive introduction from the head of the school, Window Snyder stands in front of a hall filled with around 800 students at her old h… [+26432 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Dominic-Madori Davis",
+    "title": "The US could learn a lot from how the UK is crafting DEI policy for venture capital | TechCrunch",
+    "description": "The U.K has taken the first steps to make its venture landscape more equitable. The U.S. could take notes.",
+    "url": "https://techcrunch.com/2023/08/04/us-venture-capital-policy/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/pipeline-diversity-policy-1.jpg?resize=1200,675",
+    "publishedAt": "2023-08-04T14:19:49Z",
+    "content": "The U.K.s Treasury Select Committee last month released a report on the diversity or lack thereof of the nations venture ecosystem. Black founders there receive less than 0.4% of all venture capital,… [+2201 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Haje Jan Kamps",
+    "title": "6 startup founders gaze into a future-of-work crystal ball | TechCrunch",
+    "description": "As the world returns to “normal,” what does the future of work look like from where we are today?",
+    "url": "https://techcrunch.com/2023/08/04/the-future-of-work-2023/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/IMG_1758.jpg?resize=1200,675",
+    "publishedAt": "2023-08-04T05:24:02Z",
+    "content": "The excitement around remote work reached fever pitch during the pandemic, when most people with an office job were forced to work from home. This opened up conversations about what the future of wor… [+3481 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Lauren Simonds",
+    "title": "Last week to save on passes to TechCrunch Disrupt 2023 | TechCrunch",
+    "description": "There’s just one week left to save up to $600 on a pass to TechCrunch Disrupt 2023. You’ve got to move it, move it.",
+    "url": "https://techcrunch.com/2023/08/04/last-week-to-save-on-passes-to-techcrunch-disrupt-2023/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Countdown-Article-Image-Header_1-week_1920x1080-1.jpg?resize=1200,675",
+    "publishedAt": "2023-08-04T00:45:22Z",
+    "content": "A big heads-up and a hearty shoutout to all you savvy startup shoppers, budget-minded founders and tech enthusiasts who love to hang on to your money. You have just one week left to save on passes to… [+2557 chars]"
+    }
+    ]
+    }
